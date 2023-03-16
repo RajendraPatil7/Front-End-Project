@@ -1,2 +1,2 @@
-# Front-End-Project
+# GymWebPage
 It is a Web Page Project
